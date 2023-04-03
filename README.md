@@ -20,5 +20,5 @@ Ich bin ein begeisterter Entwickler und leidenschaftlicher Technologie-Enthusias
 
 ## Bewertung
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=smomsi&show_icons=true&theme=radical">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=NexxonK&show_icons=true&theme=radical">
 
